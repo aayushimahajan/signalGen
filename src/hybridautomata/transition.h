@@ -2,7 +2,7 @@
  * transition.h
  *
  *  Created on: 22-Sep-2021
- *      Author: amit
+ *      Author: amit,aayushi
  */
 
 #ifndef HYBRIDAUTOMATA_TRANSITION_H_
