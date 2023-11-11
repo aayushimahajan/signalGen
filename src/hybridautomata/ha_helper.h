@@ -2,7 +2,7 @@
  * ha_helper.h
  *
  *  Created on: 19-May-2023
- *      Author: amit
+ *      Author: amit, aayushi
  */
 
 #ifndef HYBRIDAUTOMATA_HA_HELPER_H_
